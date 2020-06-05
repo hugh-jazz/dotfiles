@@ -34,7 +34,7 @@ prompt pure
 source ~/dotfiles/.zsh_aliases
 
 # uncomment to use windows clipboard - needs x server on windows
-export DISPLAY=localhost:0.0
+#export DISPLAY=localhost:0.0
 
 # Install neofetch
 if ! [ -d $HOME/.config/neofetch ]; then
